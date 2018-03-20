@@ -1,0 +1,18 @@
+{
+  "name": "wirecast-applescript",
+  "version": "1.0.2",
+  "description": "Control Wirecast on macOS with AppleScript",
+  "main": "./lib/wirecast-applescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wirecast",
+    "applescript"
+  ],
+  "author": "John Barker",
+  "license": "MIT",
+  "dependencies": {
+    "applescript": "^1.0.0"
+  }
+}
